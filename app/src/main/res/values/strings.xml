@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RpR Project</string>
+    <string name="text_availableShedule">Available Schedule Day</string>
+    <string name="text_title_details">Account Details</string>
+    <string name="text_name_details">Name</string>
+    <string name="text_email_details">Email</string>
+    <string name="text_telephone_details">Telephone or Cell phone</string>
+</resources>
